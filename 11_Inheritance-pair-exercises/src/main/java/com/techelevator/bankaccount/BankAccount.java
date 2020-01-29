@@ -2,7 +2,7 @@ package com.techelevator.bankaccount;
 
 import java.math.BigDecimal;
 
-public class BankAccount {
+public abstract class BankAccount {
 
 	public BankAccount () {
 	}
